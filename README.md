@@ -20,7 +20,7 @@ The data has several columns, including:
 There are several other columns containing answers to questions about the Star Wars movies. For some questions, the respondent had to check one or more boxes. This type of data is difficult to represent in columnar format. As a result, this data set needs a lot of cleaning.
 
 
-Tools Used-
+## Tools Used-
 
 Anaconda Jupyter Notebook
 Pandas Lib
@@ -28,22 +28,25 @@ Matplotlib lib
 
 
 
-Starwars guided project help taken from
-david.vanheeswijk
+### Starwars guided project help taken from
+
+`david.vanheeswijk`
 https://nbviewer.jupyter.org/urls/community.dataquest.io/uploads/short-url/qFIYEus5UKHUNloe7qM0tMlbhIK.ipynb
 
 
-nnabugwukelvin.chukw
+`nnabugwukelvin.chukw`
 https://nbviewer.jupyter.org/urls/community.dataquest.io/uploads/short-url/pNPS4apKR1D0M4nakMChbeaqRY2.ipynb
 
-jafarinasim
+`jafarinasim`
 https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Star%20Wars%20Survey/Basics.ipynb
 
 
-ImerCardona
+`ImerCardona`
 https://nbviewer.jupyter.org/urls/community.dataquest.io/uploads/short-url/k3VE6Gc7YCLybsBuFZocDi3AkTA.ipynb.
 
-barGraph Design
+
+`barGraph Design`
+
 https://scentellegher.github.io/visualization/2018/10/10/beautiful-bar-plots-matplotlib.html
 
 
