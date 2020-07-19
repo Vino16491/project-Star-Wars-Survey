@@ -22,9 +22,9 @@ There are several other columns containing answers to questions about the Star W
 
 ## Tools Used-
 
-Anaconda Jupyter Notebook
-Pandas Lib
-Matplotlib lib
+- Anaconda Jupyter Notebook
+- Pandas Lib
+- Matplotlib lib
 
 
 
